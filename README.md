@@ -1,5 +1,5 @@
 # Acesso à dados com .NET, C#, Dapper e SQL Server
-#### Acesso dados de forma rápida e segura, se conectar ao SQL Server e executar queries de forma otimizada, performática e segura. 
+#### Acesso dados de forma rápida e segura, se conectar ao SQL Server e executar queries de forma otimizada, performática e segura. Dapper é um produto de mapeamento objeto-relacional para a plataforma Microsoft .NET: ele fornece uma estrutura para mapear um modelo de domínio orientado a objeto para um banco de dados relacional tradicional.
 ``` Nuget Usado: Microsoft.Data.SqlClient e Dapper ```
 
 ### Docker e SQL Server 2019 / Azure Data Studio.
